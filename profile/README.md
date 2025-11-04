@@ -2,10 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Autor-João%20Pedro-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge"/>
 </p>
-
----
 
 ## 📌 Descrição
 Um **portal imobiliário** onde corretores ou proprietários podem anunciar imóveis para aluguel ou venda.  
@@ -20,7 +17,6 @@ Clientes podem pesquisar, aplicar filtros avançados e salvar seus imóveis favo
 | **Cliente**   | Pesquisar, filtrar, favoritar imóveis e enviar mensagens de interesse |
 | **Administrador** | Gerenciar usuários e anúncios |
 
----
 
 ## ⚙️ Lógica de Negócio
 - 🔑 **Corretor** (`ROLE_CORRETOR`) → CRUD de anúncios (com múltiplas fotos).  
@@ -28,7 +24,6 @@ Clientes podem pesquisar, aplicar filtros avançados e salvar seus imóveis favo
 - ⭐ **Favoritos** → Relação ManyToMany entre `Usuario` e `Anuncio`.  
 - 💬 **Mensagens** → Cliente envia mensagem de interesse → associada ao corretor dono do anúncio.  
 
----
 
 ## ✅ Requisitos Funcionais
 - **RF-01:** CRUD de anúncios com múltiplas fotos.  
@@ -36,13 +31,11 @@ Clientes podem pesquisar, aplicar filtros avançados e salvar seus imóveis favo
 - **RF-03:** Favoritar anúncios (ManyToMany).  
 - **RF-04:** Enviar mensagens de interesse (visíveis ao corretor).  
 
----
 
 ## 🚀 Requisitos Não Funcionais
 - **RNF-01:** Busca otimizada com **Full-Text Search**.  
 - **RNF-02:** Upload de múltiplas fotos com **processamento assíncrono** de thumbnails.  
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 - **Backend:** Java + Spring Boot  
@@ -51,7 +44,6 @@ Clientes podem pesquisar, aplicar filtros avançados e salvar seus imóveis favo
 - **Autenticação:** JWT  
 - **Infra:** Docker + AWS S3 (armazenamento de imagens)
 
----
 
 ## 📂 Estrutura do Projeto
 ```bash
