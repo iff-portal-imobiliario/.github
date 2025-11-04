@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Autor-João%20Pedro%20Lopes%20Gonçalves-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Matriícula-202121250058-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matrícula-202121250058-purple?style=for-the-badge"/>
 </p>
 
 ## 📌 Descrição
