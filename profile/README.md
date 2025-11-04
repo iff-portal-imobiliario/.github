@@ -1,15 +1,5 @@
 <h1 align="center">🏠 Portal Imobiliário</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Autor-João%20Pedro-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300px"/>
-</p>
-
 ---
 
 ## 📌 Descrição
@@ -54,14 +44,7 @@ Clientes podem pesquisar, aplicar filtros avançados e salvar seus imóveis favo
 - **Banco de Dados:** PostgreSQL  
 - **Frontend:** React + TailwindCSS  
 - **Autenticação:** JWT  
-- **Infra:** Docker + AWS S3 (armazenamento de imagens)  
-
----
-
-## 🎥 Demonstração
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600px"/>
-</p>
+- **Infra:** Docker + AWS S3 (armazenamento de imagens)
 
 ---
 
