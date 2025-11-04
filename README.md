@@ -1,4 +1,3 @@
-# .github
 ## 🏠 Projeto 18 — Portal Imobiliário (Listagem de Imóveis)
 
 **Autor:** João Pedro
